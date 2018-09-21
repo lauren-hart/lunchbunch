@@ -22,11 +22,11 @@ Roselene Walker
 Rich Churcher [@richchurcher](https://github.com/richchurcher)  
 
 **Dev Team**  
-Aimee Coxhead [@aimee_c_nikau](https://github.com/aimee-coxhead)  
+Aimee Coxhead [@aimee-coxhead](https://github.com/aimee-coxhead)  
 Tom Hall [@tommy-hall](https://github.com/tommy-hall)  
-Lauren Hart [@lauren_h_nikau](https://github.com/lauren-hart)  
-James Built [@james_b_nikau](https://github.com/james-built)  
-Amy Han [@amy_h_nikau](https://github.com/amy-han)  
+Lauren Hart [@lauren-hart](https://github.com/lauren-hart)  
+James Built [@james-built](https://github.com/james-built)  
+Amy Han [@amy-han](https://github.com/amy-han)  
 
 **Assisted By**  
 Emily Parkes [@emilyparkes](https://github.com/emilyparkes)  
