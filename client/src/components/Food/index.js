@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './Food.css'
 
 export default class Food extends Component {
   constructor (props) {
@@ -18,7 +19,7 @@ export default class Food extends Component {
     return (
       <div className={this.props.category}>
         <div className={`${this.props.category}button`}>
-          <button onClick={this.clickHandler}>{this.props.name}</button>
+          <button className='buttons' onClick={this.clickHandler}>{this.props.name}</button>
         </div>
       </div>
     )
